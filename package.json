@@ -1,0 +1,29 @@
+{
+  "name": "my-online-shop",
+  "version": "1.0.0",
+  "description": "Build a online shop for applying the technologies I have learned. I used Mongoose for database, Node and Express for backend, React for front-end and redux for state management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosharrafMusa/my-online-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosharrafMusa/my-online-shop/issues"
+  },
+  "homepage": "https://github.com/MosharrafMusa/my-online-shop#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5"
+  },
+  "devDependencies": {
+    "concurrently": "^6.0.2",
+    "nodemon": "^2.0.7"
+  }
+}
